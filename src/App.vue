@@ -91,7 +91,7 @@ export default {
         { text: 'Dashboard', icon: 'mdi-ticket-account', url: 'Dashboard', open:"no" },
         { text: 'Transactions', icon: 'mdi-palette', url: 'Transactions', open:"no" },
         { text: 'Tickets', icon: 'mdi-comment-multiple-outline', url: 'Tickets', open:"no" },
-        { text: 'Increase Limit', icon: 'mdi-compass-outline', url: 'https://www.getcoins.com/vipapplication', open:"yes" },
+        { text: 'Increase Limit', icon: 'mdi-compass-outline', url: 'Increselimit', open:"no" },
         { text: 'Logout', icon: 'mdi-power', url: 'Logout', open:"no" }
       ]
     }
